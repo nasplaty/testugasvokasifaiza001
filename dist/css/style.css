@@ -1,0 +1,136 @@
+header{
+    padding: 20px 0px;
+}
+
+header .header-text{
+    padding-top: 20px;
+    color: #021160;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+header .header-text .title{
+    font-size: 36px;
+}
+header .header-text .sub-title{
+    font-size: 22px;
+}
+ 
+#about{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: justify;
+}
+
+footer{
+    background-color: #021160;
+    color: #fff;
+    padding: 50px 0px;
+    min-height: 80px;
+    text-align: center;
+}
+ 
+kalender pendidikan
+
+.month {
+    padding: 70px 25px;
+    width: 100%;
+    background: #1abc9c;
+    text-align: center;
+  }
+  
+  .month ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .month ul li {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+  }
+  
+  .month .prev {
+    float: left;
+    padding-top: 10px;
+  }
+  
+  .month .next {
+    float: right;
+    padding-top: 10px;
+  }
+  
+  .weekdays {
+    margin: 0;
+    padding: 10px 0;
+    background-color: #ddd;
+  }
+  
+  .weekdays li {
+    display: inline-block;
+    width: 13.6%;
+    color: #666;
+    text-align: center;
+  }
+
+  .menandakan {
+    margin: 0;
+    padding: 10px 0;
+    background-color: #ddd;
+  }
+  
+  .menandakan li {
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+    color: #666;
+    padding: 10px 0;
+    padding-left: 50px;
+  }
+
+  .judulkalender {
+    width: 100%;
+    text-align: center; /* Align text in the center */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .judulkalender li {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    color: #1f1f1f;
+    padding: 10px 0;
+  }
+  
+  .days {
+    padding: 10px 0;
+    background: #eee;
+    margin: 0;
+  }
+  
+  .days li {
+    list-style-type: none;
+    display: inline-block;
+    width: 13.6%;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size:12px;
+    color: #777;
+  }
+  
+  .days li .active {
+    padding: 5px;
+    color: #007a62 !important
+  }
+
+  .days li .passive {
+    padding: 5px;
+    color: rgb(155, 21, 21) !important
+  }
+
+
+  .days li .bulankemarin {
+    padding: 5px;
+    color: rgb(167, 167, 167) !important
+  }
